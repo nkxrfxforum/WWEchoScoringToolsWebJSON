@@ -1,0 +1,47 @@
+{
+  "LimitedTimeEvent": [
+    {
+      "EventName": "測試活動1",
+      "EventEnd": 0,
+      "name": "弗洛洛",
+      "echo_sets": [
+        { "name": "失序彼岸之夢", "quantity": 3 },
+        { "name": "幽夜隱匿之帷/沉日劫明", "quantity": 2 }
+      ],
+      "cost_distribution": [4, 3, 3, 1, 1],
+      "main_stats": {
+        "cost_4": ["暴擊", "暴擊傷害"],
+        "cost_3": ["湮滅傷害加成", "攻擊"],
+        "cost_1": ["攻擊"]
+      }
+    },
+    {
+      "EventName": "測試活動2",
+      "name": "珂萊塔",
+      "EventEnd": 1,
+      "echo_sets": [
+        { "name": "凌冽決斷之心", "quantity": 5 }
+      ],
+      "cost_distribution": [4, 3, 3, 1, 1],
+      "main_stats": {
+        "cost_4": ["暴擊", "暴擊傷害"],
+        "cost_3": ["冷凝傷害加成", "攻擊"],
+        "cost_1": ["攻擊"]
+      }
+    },
+    {
+      "EventName": "測試活動3",
+      "name": "卡提希婭",
+      "EventEnd": 1,
+      "echo_sets": [
+        { "name": "願戴榮光之旅", "quantity": 5 }
+      ],
+      "cost_distribution": [4, 4, 1, 1, 1],
+      "main_stats": {
+        "cost_4": ["暴擊", "暴擊傷害"],
+        "cost_3": ["氣動傷害加成"],
+        "cost_1": ["生命"]
+      }
+    }
+  ]
+}
