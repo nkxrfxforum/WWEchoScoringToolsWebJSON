@@ -1,18 +1,18 @@
 {
-    "測試活動2": [
+    "神秘寫信女": [
         {
             "UID": 700052531,
-            "角色": "千咲",
-            "分數": 75.1,
-            "圖片網址": "https://wutheringwaves-dc.kurogames-global.com/back/94/949670b925ec8ae02ff015eb48b16eb25cf49233.jpeg",
-            "rank": 5
+            "角色": "秧秧",
+            "分數": 100,
+            "圖片網址": "https://img.nga.178.com/attachments/mon_202508/21/-11ow8dQ2w-apwzK2fT3cS17u-a0.webp",
+            "rank": 1
         },
         {
             "UID": 712488897,
             "角色": "守岸人",
             "分數": 65.37,
             "圖片網址": "https://wutheringwaves-dc.kurogames-global.com/back/94/9461c1b28e2e833cb8a74f18f764d5806638fc25.jpeg",
-            "rank": 7
+            "rank": 2
         }
     ],
     "測試活動3": [
@@ -31,4 +31,5 @@
             "rank": 7
         }
     ]
+
 }
