@@ -1,36 +1,13 @@
 {
     "神秘寫信女": [
         {
-            "UID": 700052531,
+            "UID": 245471983,
             "角色": "秧秧",
             "分數": 100,
             "圖片網址": "https://bbs.nga.cn/read.php?tid=44902871&rand=393",
             "rank": 1
-        },
-        {
-            "UID": 712488897,
-            "角色": "守岸人",
-            "分數": 65.37,
-            "圖片網址": "https://wutheringwaves-dc.kurogames-global.com/back/94/9461c1b28e2e833cb8a74f18f764d5806638fc25.jpeg",
-            "rank": 2
-        }
-    ],
-    "測試活動3": [
-        {
-            "UID": 700052531,
-            "角色": "千咲",
-            "分數": 75.1,
-            "圖片網址": "https://wutheringwaves-dc.kurogames-global.com/back/94/949670b925ec8ae02ff015eb48b16eb25cf49233.jpeg",
-            "rank": 5
-        },
-        {
-            "UID": 712488897,
-            "角色": "守岸人",
-            "分數": 65.37,
-            "圖片網址": "https://wutheringwaves-dc.kurogames-global.com/back/94/9461c1b28e2e833cb8a74f18f764d5806638fc25.jpeg",
-            "rank": 7
         }
     ]
-
 }
+
 
