@@ -16,8 +16,8 @@
       }
     },
     {
-      "EventName": "測試活動2",
-      "name": "珂萊塔",
+      "EventName": "神秘寫信女",
+      "name": "秧秧",
       "EventEnd": 1,
       "echo_sets": [
         { "name": "凌冽決斷之心", "quantity": 5 }
@@ -44,4 +44,5 @@
       }
     }
   ]
+
 }
