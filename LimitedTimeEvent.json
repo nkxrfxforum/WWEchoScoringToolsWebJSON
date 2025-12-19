@@ -20,30 +20,17 @@
       "name": "秧秧",
       "EventEnd": 1,
       "echo_sets": [
-        { "name": "凌冽決斷之心", "quantity": 5 }
+        { "name": "凝夜白霜", "quantity": 5 }
       ],
       "cost_distribution": [4, 3, 3, 1, 1],
       "main_stats": {
         "cost_4": ["暴擊", "暴擊傷害"],
-        "cost_3": ["冷凝傷害加成", "攻擊"],
-        "cost_1": ["攻擊"]
-      }
-    },
-    {
-      "EventName": "測試活動3",
-      "name": "卡提希婭",
-      "EventEnd": 1,
-      "echo_sets": [
-        { "name": "願戴榮光之旅", "quantity": 5 }
-      ],
-      "cost_distribution": [4, 4, 1, 1, 1],
-      "main_stats": {
-        "cost_4": ["暴擊", "暴擊傷害"],
         "cost_3": ["氣動傷害加成"],
-        "cost_1": ["生命"]
+        "cost_1": ["攻擊"]
       }
     }
   ]
 
 }
+
 
