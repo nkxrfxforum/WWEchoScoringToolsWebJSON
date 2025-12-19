@@ -43,16 +43,30 @@
   },
   {
     "UID": 712488897,
+    "角色": "散華",
+    "分數": 65.64,
+    "圖片網址": "https://wutheringwaves-dc.kurogames-global.com/back/30/307e96cfc296448f8eee5d76b274872b9baf0825.jpeg",
+    "rank": 7
+  },
+  {
+    "UID": 712488897,
     "角色": "守岸人",
     "分數": 65.37,
     "圖片網址": "https://wutheringwaves-dc.kurogames-global.com/back/94/9461c1b28e2e833cb8a74f18f764d5806638fc25.jpeg",
-    "rank": 7
+    "rank": 8
   },
   {
     "UID": 712488897,
     "角色": "弗洛洛",
     "分數": 64.23,
     "圖片網址": "https://wutheringwaves-dc.kurogames-global.com/back/16/16148a3590cfb620480c1695b887d66236709280.jpeg",
-    "rank": 8
+    "rank": 9
+  },
+  {
+    "UID": 712488897,
+    "角色": "維里奈",
+    "分數": 62.67,
+    "圖片網址": "https://wutheringwaves-dc.kurogames-global.com/back/d6/d6dbbd4b80db80a26c089b44a8d1efe3e6a6b880.jpeg",
+    "rank": 10
   }
 ]
