@@ -1,0 +1,14 @@
+{
+    "Yes": [
+        {
+            "imgURL": "https://stickershop.line-scdn.net/stickershop/v1/sticker/801096122/iPhone/sticker_animation@2x.png?v=1",
+            "imgLink": "https://store.line.me/stickershop/product/32173515/zh-Hant?from=sticker"
+        }
+    ],
+    "No": [
+         {
+            "imgURL": "https://stickershop.line-scdn.net/stickershop/v1/product/32173515/iPhone/main_animation@2x.png?v=1",
+            "imgLink": "https://store.line.me/stickershop/product/32173515/zh-Hant?from=sticker"
+        }
+    ]
+}
