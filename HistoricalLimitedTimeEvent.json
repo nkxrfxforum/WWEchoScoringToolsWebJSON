@@ -1,4 +1,5 @@
 {
+    
     "神秘寫信女": [
         {
             "UID": 245471983,
@@ -7,7 +8,31 @@
             "圖片網址": "https://bbs.nga.cn/read.php?tid=44902871&rand=393",
             "rank": 1
         }
-    ]
+    ],
+    "我不會再等了": [
+        {
+            "UID": 701650393,
+            "角色": "弗洛洛",
+            "分數": 80.84,
+            "圖片網址": "https://wutheringwaves-dc.kurogames-global.com/back/8d/8d1a2ec60dd087abee9ec007dda33603200d44cd.jpeg",
+            "rank": 1
+        },
+        {
+            "UID": 900620336,
+            "角色": "弗洛洛",
+            "分數": 74.52,
+            "圖片網址": "https://wutheringwaves-dc.kurogames-global.com/back/a2/a2bcbbb3e6fc8a264a3f07ffab7e99b1db22c65f.jpeg",
+            "rank": 2
+        },
+        {
+            "UID": 701002947,
+            "角色": "弗洛洛",
+            "分數": 74.26,
+            "圖片網址": "https://wutheringwaves-dc.kurogames-global.com/back/69/69aad97499c173ec2c117281363b646857a1e681.jpeg",
+            "rank": 3
+        }
+    ],
 }
+
 
 
