@@ -1,8 +1,22 @@
 {
   "LimitedTimeEvent": [
     {
-      "EventName": "我不會再等了",
+      "EventName": "非定義光譜",
       "EventEnd": 0,
+      "name": "琳奈",
+      "echo_sets": [
+        { "name": "逆光躍彩之約", "quantity": 5 }
+      ],
+      "cost_distribution": [4, 3, 3, 1, 1],
+      "main_stats": {
+        "cost_4": ["暴擊", "暴擊傷害"],
+        "cost_3": ["衍射傷害加成", "攻擊"],
+        "cost_1": ["攻擊"]
+      }
+    },
+    {
+      "EventName": "我不會再等了",
+      "EventEnd": 1,
       "name": "弗洛洛",
       "echo_sets": [
         { "name": "失序彼岸之夢", "quantity": 3 },
@@ -32,6 +46,7 @@
   ]
 
 }
+
 
 
 
