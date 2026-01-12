@@ -1,23 +1,30 @@
 [
   {
+    "UID": 705756057,
+    "角色": "琳奈",
+    "分數": 81.15,
+    "圖片網址": "https://wutheringwaves-dc.kurogames-global.com/back/04/046a2613fabb500a00a8cac93f528ada12f12ebd.jpeg",
+    "rank": 1
+  },
+  {
     "UID": 701002947,
     "角色": "琳奈",
     "分數": 73.69,
     "圖片網址": "https://wutheringwaves-dc.kurogames-global.com/back/d8/d8f4f2b1b96aea9e6af8b4cce770dc273af47402.jpeg",
-    "rank": 1
+    "rank": 2
   },
   {
     "UID": 701357917,
     "角色": "琳奈",
     "分數": 72.15,
     "圖片網址": "https://wutheringwaves-dc.kurogames-global.com/back/c5/c53180b95f65b61a1bcc56cf209ddf76533dd61b.jpeg",
-    "rank": 2
+    "rank": 3
   },
   {
     "UID": 700041705,
     "角色": "琳奈",
     "分數": 71.15,
     "圖片網址": "https://wutheringwaves-dc.kurogames-global.com/back/c9/c9fc443327abb38b8bb49ccb40a469de562f51f8.jpeg",
-    "rank": 3
+    "rank": 4
   }
 ]
