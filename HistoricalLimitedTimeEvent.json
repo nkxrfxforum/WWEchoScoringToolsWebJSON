@@ -1,12 +1,39 @@
 {
-    
-    "神秘寫信女": [
+    "非定義光譜": [
         {
-            "UID": 245471983,
-            "角色": "秧秧",
-            "分數": 100,
-            "圖片網址": "https://bbs.nga.cn/read.php?tid=44902871&rand=393",
+            "UID": 705756057,
+            "角色": "琳奈",
+            "分數": 81.15,
+            "圖片網址": "https://wutheringwaves-dc.kurogames-global.com/back/04/046a2613fabb500a00a8cac93f528ada12f12ebd.jpeg",
             "rank": 1
+        },
+        {
+            "UID": 708463576,
+            "角色": "琳奈",
+            "分數": 75.69,
+            "圖片網址": "https://wutheringwaves-dc.kurogames-global.com/back/20/2013aea881a71ec14a83c96fa51a71f18504ad5f.jpeg",
+            "rank": 2
+        },
+        {
+            "UID": 701002947,
+            "角色": "琳奈",
+            "分數": 73.69,
+            "圖片網址": "https://wutheringwaves-dc.kurogames-global.com/back/d8/d8f4f2b1b96aea9e6af8b4cce770dc273af47402.jpeg",
+            "rank": 3
+        },
+        {
+            "UID": 701357917,
+            "角色": "琳奈",
+            "分數": 72.15,
+            "圖片網址": "https://wutheringwaves-dc.kurogames-global.com/back/c5/c53180b95f65b61a1bcc56cf209ddf76533dd61b.jpeg",
+            "rank": 4
+        },
+        {
+            "UID": 700041705,
+            "角色": "琳奈",
+            "分數": 71.15,
+            "圖片網址": "https://wutheringwaves-dc.kurogames-global.com/back/c9/c9fc443327abb38b8bb49ccb40a469de562f51f8.jpeg",
+            "rank": 5
         }
     ],
     "我不會再等了": [
@@ -31,9 +58,14 @@
             "圖片網址": "https://wutheringwaves-dc.kurogames-global.com/back/69/69aad97499c173ec2c117281363b646857a1e681.jpeg",
             "rank": 3
         }
+    ],
+    "神秘寫信女": [
+        {
+            "UID": 245471983,
+            "角色": "秧秧",
+            "分數": 100,
+            "圖片網址": "https://bbs.nga.cn/read.php?tid=44902871&rand=393",
+            "rank": 1
+        }
     ]
 }
-
-
-
-
