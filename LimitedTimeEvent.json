@@ -1,8 +1,22 @@
 {
   "LimitedTimeEvent": [
     {
-      "EventName": "非定義光譜",
+      "EventName": "縱使星光於無窮遠",
       "EventEnd": 0,
+      "name": "莫寧",
+      "echo_sets": [
+        { "name": "星構尋輝之環", "quantity": 5 }
+      ],
+      "cost_distribution": [4, 3, 3, 1, 1],
+      "main_stats": {
+        "cost_4": ["治療效果加成"],
+        "cost_3": ["共鳴效率"],
+        "cost_1": ["防禦"]
+      }
+    },
+    {
+      "EventName": "非定義光譜",
+      "EventEnd": 1,
       "name": "琳奈",
       "echo_sets": [
         { "name": "逆光躍彩之約", "quantity": 5 }
@@ -46,6 +60,7 @@
   ]
 
 }
+
 
 
 
