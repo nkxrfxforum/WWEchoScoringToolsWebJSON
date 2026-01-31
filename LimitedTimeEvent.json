@@ -2,7 +2,7 @@
   "LimitedTimeEvent": [
     {
       "EventName": "縱使星光於無窮遠",
-      "EventEnd": 0,
+      "EventEnd": 1,
       "name": "莫寧",
       "echo_sets": [
         { "name": "星構尋輝之環", "quantity": 5 }
@@ -60,6 +60,7 @@
   ]
 
 }
+
 
 
 
